@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, I am Nguyen Hoang Lam
 
-<!--
-**MochiHLam/MochiHLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#✨ About me
+-🎓 I'm an IT student of HCMUTE
+-💻 Interested in Frontend, Backend Development, Testing, and System Design
+-⚙️ I enjoy working with automation, APIs, and scalable architectures
+-📚 Currently learning Docker
+-🚀 Goal: Become a professional Software Engineer
+-🛠️ Tech Stack
++💻 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
++⚙️ Tools & Technologies
+
+
+-⚡ Fun Fact
++🧠 I enjoy solving problems and optimizing systems
++☕ Coffee + Code = Productivity boost
