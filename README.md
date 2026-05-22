@@ -12,8 +12,3 @@
 
 
 +⚙️ Tools & Technologies
-
-
--⚡ Fun Fact
-+🧠 I enjoy solving problems and optimizing systems
-+☕ Coffee + Code = Productivity boost
