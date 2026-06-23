@@ -43,24 +43,17 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🌐 [Mixi – Social App](https://github.com/MochiHLam/SocialApp) | Full-stack social platform with real-time messaging, Google Gemini AI integration, and CI/CD pipeline | MERN, Docker, GitHub Actions, Cloudinary, Railway, Vercel |
-| 🍔 Food Ordering App | Full-stack food ordering app deployed on AWS EC2 with Nginx reverse proxy and PM2 process management | MERN, AWS EC2, Nginx, PM2, MongoDB Atlas |
+| 🍔 [Food Ordering App](https://github.com/MochiHLam/ITProjectFoodApp) | Full-stack food ordering app deployed on AWS EC2 with Nginx reverse proxy and PM2 process management | MERN, AWS EC2, Nginx, PM2, MongoDB Atlas |
 
 ---
 
 ### 🏅 Certifications
 
-| Certification | Issuer |
-|---|---|
-| TOEIC 820 | ETS (2024) |
-| AWS Academy Graduate – Cloud Developing | AWS Academy |
-| AWS Academy Graduate – Cloud Foundations | AWS Academy |
-
----
-
-### 📊 GitHub Stats
-
-![Lam's GitHub stats](https://github-readme-stats.vercel.app/api?username=MochiHLam&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochiHLam&layout=compact&theme=tokyonight)
+| Certification | Issuer | Link |
+|---|---|---|
+| TOEIC 820 | ETS (2024) | [View certificate](https://drive.google.com/file/d/1cgjvkosop30IfQZwSZrVLfrnleo0i8q5/view) |
+| AWS Academy Graduate – Cloud Developing | AWS Academy | [View credential](https://www.credly.com/badges/3bebcf84-93f7-47e7-a9f8-1d9d5f11dc51/public_url) |
+| AWS Academy Graduate – Cloud Foundations | AWS Academy | [View credential](https://www.credly.com/badges/b001cb67-afa5-47a1-a87d-82be97644f32/public_url) |
 
 ---
 
